@@ -115,7 +115,7 @@ Una vez comprobado que Python está instalado, se debe instalar Flask.
 
 Hacer clic dentro de la terminal de Visual Studio Code.
 Escribir:
-pip install flask
+pip install flask o python -m pip install flask
 Presionar Enter.
 Esperar mientras Flask se descarga e instala.
 Cuando termine el proceso, se puede continuar con el siguiente paso.
